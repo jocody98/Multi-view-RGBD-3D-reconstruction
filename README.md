@@ -23,6 +23,8 @@ Project : 3D spatial reconstruction using multi-view RGBD data
   run cal_RT.py and pc_combine.py sequentially\
   if you need an increase in accuracy, run icp.py (it change RT matrix)\
   run pc_combine.py again
+ - Posting\
+   https://blog.naver.com/swhak
   
 ICP\
   Applied icp algorithm using closest point, and used point of specific range to work properly.\
